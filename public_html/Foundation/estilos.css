@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03/09/2017, 2:15:04
+    Author     : Oscar Vinueza
+*/
+h1,h2,h3,h4,h5,p{
+    font-family: 'Indie Flower', cursive;
+}
+.historias{
+    color:#ff6699;
+}
+li,input{
+    border-radius: 5%;
+}
+li:hover{
+    box-shadow: black 2px 2px 3px;
+}
+input:hover{
+    box-shadow: black 2px 2px 3px;
+}
+.favoritos:hover{
+    box-shadow: black 2px 2px 3px;
+}
+div[class$='active']:hover{
+    box-shadow: black 2px 2px 3px;
+}
+div[class$='expanded']{
+    box-shadow: black 2px 2px 3px;
+}
